@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(118, 118, 171);
+}
+#score{
+    color: rgb(229, 255, 0);
+    font-size: 25px;
+    margin-left: 100px;
+}
+#timer{
+    color: rgb(229, 255, 0);
+    font-size: 25px;
+    margin-left: 1100px; 
+}
